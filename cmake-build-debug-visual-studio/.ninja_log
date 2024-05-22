@@ -1,0 +1,5 @@
+# ninja log v5
+1	876	7379815836516910	CMakeFiles/sokoban.dir/sokoban.cpp.obj	65d2a0459ef8d196
+877	1264	7379815840198399	sokoban.exe	c5959520a814c40
+1	570	7379823581184830	CMakeFiles/sokoban.dir/sokoban.cpp.obj	a89355f78af99b75
+571	3198	7379823585285415	sokoban.exe	b273aadf569ef6ae

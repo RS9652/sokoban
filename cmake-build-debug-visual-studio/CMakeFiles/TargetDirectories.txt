@@ -1,0 +1,3 @@
+C:/Users/HUAWEI/Desktop/Sokoban project/sokoban/cmake-build-debug-visual-studio/CMakeFiles/sokoban.dir
+C:/Users/HUAWEI/Desktop/Sokoban project/sokoban/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+C:/Users/HUAWEI/Desktop/Sokoban project/sokoban/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
